@@ -1,3 +1,4 @@
 学习笔记
 1.pandas的操作类似于SQL，可从SQL操作类比理解pandas操作
 2.自然语言处理中，jieba和snownlp是两个很重要的库
+3.pandas是基于numpy的
